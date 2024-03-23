@@ -1,8 +1,8 @@
 {
-  "name": "soberskabat733mean",
+  "name": "soberskabat733oss",
   "version": "1.0.0",
-  "description": "It accurately computes numerical totals, averages, and offers reliable mean calculation solutions for statistical analyses, prior to the Jasmine version. ",
-  "main": "average.js",
+  "description": "Efficiency in mean calculations, offering accelerated processes for determining totals and averages of randomly chosen numbers, Oolong phase 1. ",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,11 +11,11 @@
     "are-objects": "^1.0.0",
 
 
-    "zebelmartell749avg": "^1.0.0",
-    "soberskabat733mean": "^1.0.0",
-    "gambaianilamke604fibo": "^1.0.0",
-    "petrovayasen804atives": "^1.0.0",
-    "swopetregoning560deri": "^1.0.0",
+    "zebelmartell749random": "^1.0.0",
+    "soberskabat733oss": "^1.0.0",
+    "gambaianilamke604stats": "^1.0.0",
+    "petrovayasen804alysis": "^1.0.0",
+    "swopetregoning560median": "^1.0.0",
 
 
     "axios": "^0.24.0",
@@ -32,24 +32,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soberskabat733/soberskabat733mean.git"
+    "url": "https://github.com/soberskabat733/soberskabat733oss.git"
   },
-  "homepage": "https://github.com/soberskabat733/soberskabat733mean/blob/main/README.md",
-  "issues": "https://github.com/soberskabat733/soberskabat733mean/issues",
-  "keywords": [
-    "average",
-    "calculate",
-    "median",
-    "means",
-    "math"
-  ],
+  "homepage": "https://github.com/soberskabat733/soberskabat733oss/blob/main/README.md",
+
+  "issues": "https://github.com/soberskabat733/soberskabat733oss/issues",
+
+  "keywords": ["random", "number", "generator"],
+
+
   "author": "soberskabat733",
   "license": "MIT"
 }
-
-
-
-
 
 
 
